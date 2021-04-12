@@ -1,5 +1,8 @@
 # 👨🏻‍💻  슬기로운 대학 생활
 
+# 
+http://ajou-newbie.campus-life-test.kro.kr/
+
 사용 기술 :
 
 Spring boot, MySQL, React.js
@@ -56,5 +59,3 @@ git checkout -b feature/4/kakaoShare origin/develop
 # 개발 기간
 1차 배포: 1월 9일 ~ 2월 7일(목표)
 
-# 
-http://ajou-newbie.campus-life-test.kro.kr/
