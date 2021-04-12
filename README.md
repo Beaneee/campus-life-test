@@ -55,3 +55,6 @@ git checkout -b feature/4/kakaoShare origin/develop
 
 # 개발 기간
 1차 배포: 1월 9일 ~ 2월 7일(목표)
+
+#주소
+http://ajou-newbie.campus-life-test.kro.kr/
