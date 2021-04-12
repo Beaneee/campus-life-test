@@ -1,6 +1,6 @@
 # 👨🏻‍💻  슬기로운 대학 생활
 
-# 
+
 http://ajou-newbie.campus-life-test.kro.kr/
 #
 
